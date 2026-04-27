@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Yuki Shimoda
-
 **Infrastructure Engineer** | Cloud · Security · GitOps · IaC  
 📍 Saitama, Japan &nbsp;|&nbsp; 🎓 Tokai University, Dept. of Mathematics (2010)
 

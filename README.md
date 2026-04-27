@@ -1,7 +1,5 @@
-# 👋 Hi, I'm Yuki Shimoda / 下田 雄基
-
 **Infrastructure Engineer** | Cloud · Security · GitOps · IaC  
-📍 Ageo, Saitama, Japan &nbsp;|&nbsp; 🎓 Tokai University, Dept. of Mathematics (2010)
+📍 Saitama, Japan &nbsp;|&nbsp; 🎓 Tokai University, Dept. of Mathematics (2010)
 
 ---
 ac
@@ -242,3 +240,4 @@ Feel free to reach out via GitHub Issues or connect on LinkedIn!
   <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-orange?style=for-the-badge&logo=amazonaws" />
   <img src="https://img.shields.io/badge/GitOps-GitHub%20Actions%20%7C%20ArgoCD-green?style=for-the-badge&logo=github" />
 </p>
+
